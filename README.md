@@ -49,7 +49,7 @@ The app have the following functionalities
     | id   | String    |
     | name | String    |
 
-  - The timelineItemObject with `categoryId` as `PROJECT` have the following properties
+  - The timelineItemObject with `categoryId` as `PROJECT` have the following properties   
 
     | Key          | Data Type |
     | ------------ | --------- |
